@@ -1,0 +1,69 @@
+{
+    "Data": {
+        "UserData": {
+            "Poblation": "madrid",
+            "DriveLicense": "B",
+            "Photo": "http://www.ojodigital.com/foro/attachments/fotos-con-historia/13049d1196241197-fotos-con-historia-19-28-11-07-steve-mccurry-afghan-girl-0015slz1.jpg",
+            "University": "",
+            "initialDate": "07/01/2010",
+            "Mail": "test@example.com",
+            "Phone": "39349343",
+            "Address": "calle mora",
+            "Nationality": "españa",
+            "id": "1",
+            "Name": "jose"
+        },
+        "Theme": {
+            "line_bg_proyect_sheet_personal": "BABABA",
+            "bg_personal_data": "B1B1B1",
+            "bg_proyectlist": "D1D1D1",
+            "hard_sep": "D0E4F2",
+            "scrollbar_proyectsheet_details": "999999",
+            "bg_personal_line": "D1D1D1",
+            "cursor_timeline": "363D52",
+            "bg_proyect_sheet_personal": "C0C0C0",
+            "soft_sep": "85A5CC",
+            "line_bg_proyect_sheet": "CACACA",
+            "bg_application": "ff0000",
+            "line_timeline": "DDDDDD",
+            "close_button": "00AA00",
+            "bg_proyect_sheet": "CCCCCC",
+            "bg_timeline": "eeeeee",
+            "bg_proyectsheet_details": "fafafa",
+            "line_scuare_2": "ACACAC",
+            "line_content_2": "9a9a9a",
+            "line_content_1": "BBBBBB",
+            "line_scuare_1": "959595"
+        },
+        "Proyects": [
+            {
+                "Category": "java",
+                "Company": "igz",
+                "EndDate": "24/02/2012",
+                "Description": "  descriptiopn",
+                "Url": "http://www.google.es",
+                "InitDate": "09/03/2011",
+                "Name": "pepete",
+                "id": 5,
+                "SubCategory": "IOS"
+            }
+        ],
+        "Tags": [
+            {
+                "Color": "#25F500",
+                "Name": "android",
+                "id": 2
+            },
+            {
+                "Color": "#F49800",
+                "Name": "IOS",
+                "id": 3
+            },
+            {
+                "Color": "#CC0000",
+                "Name": "java",
+                "id": 4
+            }
+        ]
+    }
+}

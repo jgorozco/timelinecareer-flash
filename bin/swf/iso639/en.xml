@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<EN>
+	<GLOBAL>
+		<LOADING><![CDATA[loading....]]></LOADING>
+		<DETAILS><![CDATA[details]]></DETAILS>
+	</GLOBAL>
+	<COMBO>
+		<INPUT_MAIL><![CDATA[Type the email from the CV you want to search]]></INPUT_MAIL>
+		<BAD_MAIL><![CDATA[The input mail is wrong. Try to type it again]]></BAD_MAIL>
+		<PUT_MAIL><![CDATA[put the mail here!]]></PUT_MAIL>
+		<RECOM><![CDATA[Recommend this app to : ]]></RECOM>
+		<NEW_TIMELINE><![CDATA[Create a new Timeline]]></NEW_TIMELINE>
+		<RECOM_MAIL><![CDATA[Put your CV into a Timeline!]]></RECOM_MAIL>
+	</COMBO>
+	<PERSONAL_DATA>
+		<SHOW_DATA><![CDATA[Show personal data]]></SHOW_DATA>
+		<HIDE_DATA><![CDATA[Hide personal data]]></HIDE_DATA>
+		<NAME_SURN><![CDATA[Name & surname :]]></NAME_SURN>
+		<MAIL><![CDATA[Email :]]></MAIL>
+		<OTHER_DATA><![CDATA[Other data: ]]></OTHER_DATA> 
+		<PHONE><![CDATA[Phone :]]></PHONE>
+		<ADDRS><![CDATA[Address :]]></ADDRS>
+		<DRIV_LICENSE><![CDATA[Driver license :]]></DRIV_LICENSE>
+		<STUDIES><![CDATA[Studies :]]></STUDIES>
+		<POBLATION><![CDATA[Poblation :]]></POBLATION>
+		<COUNTRY><![CDATA[Country :]]></COUNTRY>
+	</PERSONAL_DATA>
+	<TIMELINE>
+		<PROFESIONAL_PROJ><![CDATA[Professional projects]]></PROFESIONAL_PROJ>
+		<PERSONAL_PROJ><![CDATA[Personal projects]]></PERSONAL_PROJ>
+	</TIMELINE>
+</EN>

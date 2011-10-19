@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<ES>
+	<GLOBAL>
+		<LOADING><![CDATA[Cargando....]]></LOADING>
+		<DETAILS><![CDATA[detalles]]></DETAILS>
+	</GLOBAL>
+	<COMBO>
+		<INPUT_MAIL><![CDATA[Introduce el e-mail del usuario para visualizar]]></INPUT_MAIL>
+		<BAD_MAIL><![CDATA[Error en el correo, intentelo de nuevo]]></BAD_MAIL>
+		<PUT_MAIL><![CDATA[pon el mail aqui!]]></PUT_MAIL>
+		<RECOM><![CDATA[Recomienda esta app a : ]]></RECOM>
+		<NEW_TIMELINE><![CDATA[Crear un nuevo timeline]]></NEW_TIMELINE>
+		<RECOM_MAIL><![CDATA[Pon tu CV en una linea temporal!]]></RECOM_MAIL>
+	</COMBO>
+	<PERSONAL_DATA>
+		<SHOW_DATA><![CDATA[Mostrar datos personales]]></SHOW_DATA>
+		<HIDE_DATA><![CDATA[Ocultar datos personales]]></HIDE_DATA>
+		<NAME_SURN><![CDATA[Nombre y aplellidos :]]></NAME_SURN>
+		<MAIL><![CDATA[Email :]]></MAIL>
+		<OTHER_DATA><![CDATA[Otros datos: ]]></OTHER_DATA> 
+		<PHONE><![CDATA[Teléfono :]]></PHONE>
+		<ADDRS><![CDATA[dirección :]]></ADDRS>
+		<DRIV_LICENSE><![CDATA[Carnet de conducir :]]></DRIV_LICENSE>
+		<STUDIES><![CDATA[estudios :]]></STUDIES>
+		<POBLATION><![CDATA[ciudad :]]></POBLATION>
+		<COUNTRY><![CDATA[Pais :]]></COUNTRY>
+	</PERSONAL_DATA>
+	<TIMELINE>
+		<PROFESIONAL_PROJ><![CDATA[Proyectos profesionales]]></PROFESIONAL_PROJ>
+		<PERSONAL_PROJ><![CDATA[Proyectos personales]]></PERSONAL_PROJ>
+	</TIMELINE>
+</ES>

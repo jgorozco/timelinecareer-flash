@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CONFIGURATION>
+	<!-- Configuración del sistema -->
+	<SYSTEM>
+		<ENVIRONMENT>
+			<DEBUG value='true' />
+			<DEFAULT value='DEV' />
+
+			<DEV uri='' />
+			<INT uri='' />
+			<PRO uri='' />
+		</ENVIRONMENT>
+		<LOCALE>
+			<DEFAULT iso639='EN' />
+			<FILE name='ES' dev='./swf/iso639/es.xml'
+							int='./swf/iso639/es.xml' 
+							pro='./swf/iso639/es.xml' 
+			/>
+			<FILE name='EN' dev='./swf/iso639/en.xml' 
+							int='./swf/iso639/en.xml' 
+							pro='./swf/iso639/en.xml' 
+			/>
+		</LOCALE>
+		<CSS>
+			<DEFAULT value='default' />
+			<FILE name='default' dev='./swf/css/curri2dot0.css' int='./swf/css/curri2dot0.css' pro='./swf/css/curri2dot0.css' />
+		</CSS>
+	</SYSTEM>
+
+	<com.igz.curri2>
+		<BASE_URI dev='http://curri2dot0.appspot.com/getUserData?type=all&mail=' 
+				  int='http://curri2dot0.appspot.com/getUserData?type=all&mail=' 
+				  pro='http://curri2dot0.appspot.com/getUserData?type=all&mail=' 
+		/>
+	</com.igz.curri2>
+
+</CONFIGURATION>

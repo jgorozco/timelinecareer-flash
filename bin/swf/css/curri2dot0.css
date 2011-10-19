@@ -1,0 +1,110 @@
+/*	Fleaxy - ActionsScript 3 StyleSheet
+	http://www.fleaxy.com/reference/css.html
+*/
+
+A {
+	text-decoration: underline;
+}
+
+A:HOVER {
+	text-decoration: none;
+}
+
+.defaultText{
+	color: #000000;
+	font-family: Verdana;
+	font-size: 12;
+	igz-antialias: advanced;
+}
+
+.default0{
+	color: #FAFAFA;
+	font-family: Verdana;
+	font-size: 8;
+	igz-antialias: advanced;
+}
+
+.default1{
+	color: #000000;
+	font-family: Verdana;
+	font-size: 13;
+	igz-antialias: advanced;
+}
+.default2{
+	color: #000000;
+	font-family: Verdana;
+	font-size: 14;
+	igz-antialias: advanced;
+}
+.default3{
+	color: #000000;
+	font-family: Verdana;
+	font-size: 15;
+	igz-antialias: advanced;
+}
+.default4{
+	color: #000000;
+	font-family: Verdana;
+	font-size: 16;
+	igz-antialias: advanced;
+}
+
+.default5{
+	color: #000000;
+	font-family: Verdana;
+	font-size: 17;
+	igz-antialias: advanced;
+}
+
+.default6{
+	color: #000000;
+	font-family: Verdana;
+	font-size: 18;
+	igz-antialias: advanced;
+}
+
+.default7{
+	color: #000000;
+	font-family: Verdana;
+	font-size: 20;
+	igz-antialias: advanced;
+}
+
+.CenterH1{
+	color: #000000;
+	font-family: Verdana;
+	font-size: 22;
+	igz-antialias: advanced;
+
+}
+.CenterH2{
+	color: #000000;
+	font-family: Verdana;
+	font-size: 16;
+	igz-antialias: advanced;
+}
+
+.CenterH3{
+	color: #000000;
+	font-family: Verdana;
+	font-size: 14;
+	igz-antialias: advanced;
+}
+
+.CenterH3_u{
+	color: #000000;
+	font-family: Verdana;
+	font-size: 16;
+	text-decoration: underline;
+	igz-antialias: advanced;
+}
+
+
+
+
+.Content{
+	color: #000000;
+	font-family: Verdana;
+	font-size: 12;
+	igz-antialias: advanced;
+}
